@@ -24,10 +24,10 @@ public class TaskAPIController {
         this.tasks = tasks;
 
         // Example tasks. Remove for real application
-        tasks.save(new Task("task 1", true, false));
-        tasks.save(new Task("task 2", true, true));
-        tasks.save(new Task("task 3", false, false));
-        tasks.save(new Task("task 4", false, false));
+//        tasks.save(new Task("task 1", true, false));
+//        tasks.save(new Task("task 2", true, true));
+//        tasks.save(new Task("task 3", false, false));
+//        tasks.save(new Task("task 4", false, false));
 
     }
 
